@@ -1,0 +1,16 @@
+*.class
+
+*.log
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+hs_err_pid*
+/target
+/.idea
+/library-examples.iml
